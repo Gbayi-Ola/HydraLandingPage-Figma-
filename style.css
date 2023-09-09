@@ -1,0 +1,657 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sbtn{
+
+    width: 214px;
+    height: 48px;
+    top: 589px;
+    left: 84px;
+    border-radius: 40px;
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+}
+.btn-card{
+    border-radius: 40px;
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+}
+body{
+    background-color: #302d42;
+    padding: 3px 30px;
+    color: #ffffff;
+}
+.offcanvas{
+    background-color: #302d42;
+}
+
+.navbar .navbtn{
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+}
+
+
+/* DIVE IN */
+
+.dive{
+    padding-top: 20px;
+}
+.dcol1{
+    padding-top: 40px;
+}
+
+.dive h6{
+    font-family: Montserrat;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.dcolor{
+   color:  rgba(129, 118, 175, 1);
+}
+.dive p{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.dive .d-flex .fa-solid{
+    width: 100px;
+    height: 100px;
+    top: 563px;
+    left: 309px;
+    padding: 0px 29px 33px 29px;
+    color:  rgba(129, 118, 175, 1);
+}
+.dive .contus{
+    min-height: 167px;
+    top: 794px;
+    border-radius: 90px;
+    background-color: rgba(58, 52, 86, 0.95) ;
+    
+
+}
+
+        /* INTRO HYDRA */
+
+.intro .h1 {
+    font-family: Montserrat;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.intro span{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    width: 251px;
+    height: 44px;
+    top: 1109px;
+}
+.intro .img-arrow{
+    width: 228px;
+    height: 100px;
+    top: 1081px;
+    height: 50px; 
+    padding: 0; 
+    margin-top: -18px; 
+}
+.intro-right h3{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 90px;
+
+}
+.intro-right p{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.intro-right .pr2{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    width: 192px;
+height: 44px;
+top: 1349px;
+left: 725px;
+
+
+}
+.intro-right .pr3{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+
+        /* WHY BUILD */
+
+.build .card{
+    background-image: linear-gradient(to right, rgba(33, 30, 46, 1), rgba(67, 61, 96, 1),rgba(33, 30, 46, 1)); 
+    border-radius: 20px;
+    border: 0;
+}
+
+
+        /* TECHNOLOGY */
+
+.tech .bgimg{
+    background-image: url(img/pexels-rodnae-productions-8097332\ 1.png); 
+    min-height: 303px;
+    max-width: 1278px;
+}
+.tech h4{
+    font-weight: 700; size: 36px;font-family: Montserrat;
+    font-size: 36px;
+    margin-top: 10px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+}
+.tech p{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 43.88px;
+}
+.tech i{
+    margin-bottom: -25px;
+    background-color: rgba(129, 118, 175, 1);;
+}
+
+
+        /* HOW WE BUILD */
+
+.build2 .col1 h3{
+    font-family: Montserrat;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0em;
+}
+
+.build2 .col1 .hv{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 44px;
+    letter-spacing: 0em;
+
+}
+.build2 .col1 img{
+    
+    margin-top: -20px;
+}
+.build2b .row i{
+    background-image: linear-gradient(to right, rgba(129, 118, 175, 1), rgba(192, 183, 232, 1));
+    font-family: Montserrat;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 78px;
+    letter-spacing: 0em;
+}
+.build2b .row .d3{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;width: 187px;
+}
+.build2b .row .p{
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+}
+.build2b .row .fc{
+    color: rgba(129, 118, 175, 1);
+}
+
+        /* JOIN HYDRA */
+
+.join{
+    border-radius: 100px;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-image: radial-gradient(50% 50% at 50% 50%, #403A5F 0%, #211E2E 100%);
+}
+.join h4{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+}
+.join p{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 44px;
+    letter-spacing: 0em;
+}
+.join input, .join textarea{
+    background-color: rgba(255, 255, 255, 0.1); color: white;
+}
+
+
+        /* FOOTER */
+.footer{
+    margin-top: 90px;
+}
+.footer .footer-text{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0.13em;
+}
+
+
+            /* MEDIAQUERY */
+@media (max-width:1199px) {
+    .dblock button {
+        display: block;
+    }
+    .dblock .btn{
+        margin-bottom: 15px;
+    }
+}
+
+    /* DIVE IN */
+
+@media (max-width:992px) and (min-width:795px) {
+
+    .dcol1{
+        padding-top: 0;
+    }
+}
+@media(max-width:940px){
+    .dive h6{
+        font-family: Montserrat;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 46px;
+        letter-spacing: 0em;
+
+    }
+}
+@media (min-width:1200px) {
+.dive img{
+    padding-left: 120px;
+}
+}
+@media (min-width:702px) and (max-width:813px) {
+    .dive h6{
+        font-family: Montserrat;
+        font-size: 40px;
+        font-weight: 200;
+        letter-spacing: 0em;
+        
+    }
+    
+}
+@media (min-width:701px) and (max-width:776px) {
+    .dive h6{
+        font-family: Montserrat;
+        font-size: 36px;
+        font-weight: 200;
+        letter-spacing: 0em;
+        
+    }
+    
+}
+@media  (max-width:708px) and (min-width:576px){
+
+    .dcol1{
+        padding-top: 0;
+    }
+
+    .dive h6{
+        font-family: Montserrat;
+        font-size: 30px;
+        font-weight: 200;
+        letter-spacing: 0em;
+        
+    }
+    
+}
+@media (min-width:576px) and (max-width:604px) {
+
+    .dcol1{
+        padding-top: 0;
+    }
+
+    .dive h6{
+        font-family: Montserrat;
+        font-size: 28px;
+        font-weight: 200;
+        letter-spacing: 0em;
+        
+    }
+    
+}
+@media (max-width:575px){
+    .dive{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .dive h6{
+        text-align: center;
+    }
+    .dcol1{
+        padding-top: 15px;
+    }
+
+    .sbtn{
+        width: 85%;
+        margin-left: 25px;
+        
+    }
+    .dive img{
+        width: 100%;
+        height: 277px;
+        top: 143px;
+        left: 35px;
+        
+    }
+
+}
+
+        /* INTRO HYDRA */
+
+@media (min-width:850px) and (max-width:1095px) {
+    .intro .img-arrow{
+        width: 100px;
+        height: 50px;
+        top: 1081px;
+        height: 50px; 
+        padding: 0; 
+        margin-top: -18px; 
+    }
+}
+@media (max-width:849px) {
+    .intro .img-arrow{
+        display: none;
+    }
+}
+
+@media (min-width:1000px) {
+    .intro .hydra-img{
+        width: 450px; 
+        height: 435px;
+    }
+    
+}
+
+@media (min-width:576px) and (max-width:713px) {
+    .intro .col-sm-6 h3{
+    font-size: 15px;
+    }    
+}
+@media (min-width:945px) and (max-width:1188px) {
+    .intro-right h3{
+        margin-top: 60px;
+    }
+}
+
+@media (min-width:768px) and (max-width:844px) {
+    .intro-right h3{
+        margin-top: 30px;
+        
+    }
+}
+@media (max-width:575px){
+    .intro .h1{
+height: 32px;
+top: 865px;
+left: 87px;
+font-family: Montserrat;
+font-size: 26px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+    }
+    .intro-right .p1, .intro-right h3, .intro-right .pr2{
+        display: none;
+    }
+    .intro-right .pr3{
+    top: 1390px;
+    left: 23px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+    }
+    .intro-right .btn{
+    height: 56px;
+    top: 1670px;
+    left: 60px;
+    border-radius: 40px;
+
+    }
+    .intro .col-sm-7 p, .intro .col-sm-7 p{
+    font-family: Montserrat;
+font-size: 26px;
+font-weight: 300;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+height: 32px;
+top: 913px;
+left: 104px;
+    }
+
+    .intro .col-sm-7 .hydra-img{
+    height: 358px;
+    top: 981px;
+    margin-left: 35px;
+
+
+    }
+}
+
+        /* BUILD */
+
+@media (max-width:575px) {
+    .build .col-md-6{
+        text-align: center;
+    }
+}
+
+
+        /* TECHNOLOGY */
+
+
+@media (max-width:575px) {
+    .tech .bgimg{
+        background-image: url(img/pexels-rodnae-productions-8097332\ 1\ \(1\).png); 
+        min-height: 164px; 
+        width: 348px;
+        
+    }
+    .tech h4{
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 20px;
+        letter-spacing: 0em;
+    }
+    .tech p{
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 29px;
+        letter-spacing: 0em;
+
+    }
+}
+@media (min-width:992px) and (max-width:1100px) {
+    .techcont .unity, .techcont .oculus, .techcont .vive{
+        margin-top: 40px;
+    }    
+}
+@media (min-width:740px) and (max-width:991px){
+    .techcont .oculus, .techcont .vive{
+        margin-top: -120px;
+    } 
+}
+@media (max-width:739px) and (min-width:675px){
+    .techcont .oculus, .techcont .vive{
+        margin-top: -100px;
+    }
+    
+}
+@media (max-width:674px) and (min-width:576px){
+    .techcont .oculus, .techcont .vive{
+        margin-top: -50px;
+    }
+    .techcont .unity{
+        margin-top: 80px;
+    }
+    
+}
+
+
+        /* HOW WE BUILD */
+@media (min-width:1220px) {
+    .build2 .col1 p{
+        margin-top: -10px;
+    }
+}
+@media (min-width:1125px) and (max-width:1220px) {
+    .build2 .col1 img{
+        width: 180px;
+    }
+    .build2 .col1 p{
+        margin-top: 0;
+    }
+    
+}
+@media (min-width:1065px) and (max-width:1124px) {
+    .build2 .col1 img{
+        width: 150px;
+    }
+    
+}
+@media (min-width:992px) and (max-width:1064px) {
+    .build2 .col1 img{
+        width: 100px;
+    }
+}
+@media (max-width:991px) {
+    .build2 .col1 img{
+        display: none;
+    }
+}
+
+@media (max-width:575px) {
+    .build2 .col1{
+        text-align: center;
+    }
+    .build2{
+        margin-top: 30px;
+    }
+
+    .build2b .row i{
+        font-size: 20px;
+    }
+    .build2b .row .d3{
+        font-size: 24px;
+
+    }
+   .build2b .row .next, .build2b .row .prev{
+    top:35px
+   }
+}
+        /* JOIN NOW */
+@media (max-width:575px) {
+    .join p{
+        font-family: Montserrat;
+font-size: 24px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+
+    }
+    
+}
+
+        /* FOOTER */
+
+@media (min-width:992px) {
+    .mod{
+        max-width: 250px;
+        /* padding: 1rem; */
+        color: white;
+        border-width: 6px;
+        border-style: solid;
+        border-image: linear-gradient(to bottom, #343045,rgba(129, 118, 175))1 100%;
+    }
+    .mod2{
+        max-width: 250px;
+        /* padding: 1rem; */
+        border-right: 6px solid;
+        color: white;
+        
+        border-image: linear-gradient(to bottom, #343045,rgba(129, 118, 175))1 100%;
+    }
+    
+}
+@media (max-width:575px) {
+    .footer .btn{
+        width: 295px;
+        height: 55px;
+        top: 4769px;
+        left: 46px;
+        border-radius: 40px;
+
+    }
+}
+
+.sliding{
+transform: translateX(10%);
+transition: transform 1s ease-in-out;
+}
+
+.sliding:nth-of-type(even){
+transform: translateX(-400%);
+}
+
+.sliding.show{
+transform: translateX(0);
+}
+@media (max-width:575px) {
+    .sliding{
+        transform: translateX(10%);
+    }
+    
+}
